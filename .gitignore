@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local-only files
+*.backup-*
+VER*_TEST_REPORT.txt
+\#U*
+
+# Local-only files
+*.backup-*
+VER*_TEST_REPORT.txt
+\#U*
